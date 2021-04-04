@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cocinapp</string>
+    <string name="search_ingredient">Ingrese su ingrediente</string>
+    <string name="search_recipe">Buscar receta</string>
+</resources>
